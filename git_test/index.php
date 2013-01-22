@@ -8,6 +8,8 @@
         <?php
             echo('test12');
             echo('some interesting example from notebook');
+            
+            die('test');
         ?>
     </body>
 </html>
