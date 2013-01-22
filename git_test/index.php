@@ -10,7 +10,7 @@
             echo('some interesting example from notebook');
             
             echo('no 23232');
-            die('test');
+            die('test1232131');
         ?>
     </body>
 </html>
