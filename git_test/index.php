@@ -8,8 +8,7 @@
         <?php
             echo('test12');
             echo('some interesting example from notebook');
-            
-            echo('somechanges');
+
         ?>
     </body>
 </html>
