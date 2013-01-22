@@ -9,7 +9,7 @@
             echo('test12');
             echo('some interesting example from notebook');
             
-            die('test');
+            echo('lalala');
         ?>
     </body>
 </html>
