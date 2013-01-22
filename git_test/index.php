@@ -7,6 +7,7 @@
     <body>
         <?php
             echo('test12');
+            echo('some iteresting example from computer');
         ?>
     </body>
 </html>
