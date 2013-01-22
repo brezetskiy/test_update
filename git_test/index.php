@@ -9,7 +9,7 @@
             echo('test12');
             echo('some interesting example from notebook');
             
-            echo('no folders');
+            echo('no');
         ?>
     </body>
 </html>
