@@ -1,6 +1,6 @@
 <?php
 
-    echo('tyt1234s2');
+    echo('tyt');
     die('next line and stop');
 
 ?>
